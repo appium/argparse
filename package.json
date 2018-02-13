@@ -1,5 +1,5 @@
 {
-  "name": "argparse",
+  "name": "appium-argparse",
   "description": "Very powerful CLI arguments parser. Native port of argparse - python's options parsing library",
   "version": "1.0.10",
   "keywords": [
